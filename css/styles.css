@@ -576,6 +576,10 @@ progress {
   max-width: 100%;
   height: auto;
 }
+.perfilimagen{
+  width: 35%;
+  margin: auto;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
