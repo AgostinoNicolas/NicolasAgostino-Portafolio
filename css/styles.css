@@ -456,6 +456,9 @@ progress {
   font-size: 1.5rem !important;
 }
 
+.i-font{
+  font-size: 19px;
+}
 
 [hidden] {
   display: none !important;
